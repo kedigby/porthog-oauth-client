@@ -1,13 +1,7 @@
-{
-  "client_id": "https://kedigby.github.io/porthog-oauth-client/posthog-client-metadata.json",
-  "client_name": "My App",
-  "logo_uri": "https://myapp.example.com/logo.png",
-  "redirect_uris": [
-    "https://myapp.example.com/new-feature/v1/posthog/callback",
-    "http://localhost:8000/new-feature/v1/posthog/callback"
-  ],
-  "com.posthog": {
-    "scopes": ["openid", "profile", "email"],
-    "optional_scopes": []
-  }
+{                                                                                                                                                                                                                                                                                                                                             
+    "client_id": "https://kedigby.github.io/porthog-oauth-client/posthog-client-metadata.json",                                                                                                                                                                                                                                                 
+    "client_name": "Supabase New Feature (dev)",                                                                                                                                                                                                                                                                                                
+    "redirect_uris": [                                                                                                                                                                                                                                                                                                                          
+      "http://localhost:8000/new-feature/v1/posthog/callback"                                                                                                                                                                                                                                                                                   
+    ]                                                                                                                                                                                                                                                                                                                                           
 }
